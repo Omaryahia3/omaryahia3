@@ -39,6 +39,8 @@
   <img width="12" />
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3232844/spark-icon-md.png" height="40" alt="spark"  />
   <img width="12" />
+  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_vscode_icon_130084.png" height="40" alt="vscode"  />
+  <img width="12" />
   <img src="https://cdn.prod.website-files.com/687b2d16145b3601a227c537/687b2d16145b3601a227d047_airbyte_vertical_color_light.svg" height="40" alt="airbyte"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
